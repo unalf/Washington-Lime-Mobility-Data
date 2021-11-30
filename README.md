@@ -1,2 +1,5 @@
-# washingtondc_limedata
-Lime Micromobility (including Jump bikes) data from Washington DC Dockless Data API
+# Scrape and Visuzalize Lime Mobility Data from Washington DC
+
+This notebook explains how to scrape data of Lime Mobility data from Dockless Data and Application Programming Interface (API).
+
+More information will be shared later.
