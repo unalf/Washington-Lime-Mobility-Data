@@ -20,3 +20,5 @@ is_disabled	  | disable status
 vehicle_type	| vehicle type (bike, moped, etc...)
 
 Data is scraped as json and converted to pandas dataframe. For visualization purposes Plotly is used. 
+
+![Interactive Visualization Example](vis_example.png)
