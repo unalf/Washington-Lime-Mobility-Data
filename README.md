@@ -10,11 +10,13 @@ Visualization covers instantenaous locations and types of mobility vehicles and 
 
 Data includes:
 
-bike_id	        unique bike id
-lat	            latitude
-lon	            longitude
-is_reserved	    reservation status
-is_disabled	    disable status
-vehicle_type	  vehicle type (bike, moped, etc...)
+Parameter     | Description
+------------- | -------------
+bike_id       | unique bike id
+lat           | latitude
+lon	          | longitude
+is_reserved	  | reservation status
+is_disabled	  | disable status
+vehicle_type	| vehicle type (bike, moped, etc...)
 
 Data is scraped as json and converted to pandas dataframe. For visualization purposes Plotly is used. 
