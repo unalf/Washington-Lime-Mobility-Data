@@ -1,6 +1,6 @@
 # Scrape and Visuzalize Lime Mobility Data from Washington DC
 
-Companies are also required to provide anonymized trip data to District Department of Transportation of Washington DC.
+Companies are required to provide anonymized trip data to District Department of Transportation of Washington DC.
 
 DDOT states that their goal "is to protect the privacy of dockless bikeshare users while maintaining transparency for the residents of the District".
 
